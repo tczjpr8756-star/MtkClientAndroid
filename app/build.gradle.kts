@@ -7,12 +7,12 @@ plugins {
 
 android {
     namespace = "com.mtkclientandroid"
-    compileSdk = 35
+    compileSdk = 37
 
     defaultConfig {
         applicationId = "com.mtkclientandroid"
         minSdk = 26
-        targetSdk = 35
+        targetSdk = 37
         versionCode = 3
         versionName = "1.1"
 
