@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mtk_primary">#0F8F63</color>
+    <color name="mtk_on_primary">#FFFFFF</color>
+    <color name="mtk_primary_container">#12D18A</color>
+    <color name="mtk_on_primary_container">#062015</color>
+    <color name="mtk_secondary">#3D5A50</color>
+    <color name="mtk_surface">#F4F7F5</color>
+    <color name="ic_launcher_background">#12D18A</color>
+
+    <color name="terminal_bg">#0E1410</color>
+    <color name="terminal_fg">#12D18A</color>
+    <color name="terminal_hint">#4D7A62</color>
+    <color name="terminal_divider">#1E2A22</color>
+</resources>

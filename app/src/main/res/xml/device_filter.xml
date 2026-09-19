@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    MediaTek's USB vendor ID is 0x0E8D (3725 decimal), used across brom,
+    preloader and DA modes with varying product IDs. Matching on vendor id
+    alone catches all of them; narrow to specific product-ids if you want
+    to be stricter.
+-->
+<resources>
+    <usb-device vendor-id="3725" />
+</resources>
